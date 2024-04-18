@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratapaditya07
+- 👋 Hi, I’m @pratapaditya07 (Name - Aditya Pratap Singh)
 - 👀 I’m interested in basically everything related to tech but the thing is there should be someone with me to explain it
 - 🌱 I’m currently learning CSS (html done) and will be learning javascript soon..
 - 💞️ I’m looking to collaborate on any small project where i can be usefull to anybody
