@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any small project where i can be usefull to anybody
 - 📫 How to reach me my ig- @duh.itx_adi
 -                    my email- adityaradhey2304@gmail.com
-- 😄 Pronouns: adi 
+- 😄 Pronouns: (he/him)
 - ⚡ Fun fact: You can cut a pie in 8 pieces with just 3 cuts .....
 
 <!---
