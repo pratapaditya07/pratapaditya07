@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pratapaditya07 (Name - Aditya Pratap Singh)
+- 👋 Hi, I’m Aditya Pratap Singh (UserName - @pratapsurya07)
 - 👀 I’m interested in basically everything related to tech but the thing is there should be someone with me to explain it
-- 🌱 I’m currently learning CSS (html done) and will be learning javascript soon..
-- 💞️ I’m looking to collaborate on any small project where i can be usefull to anybody
+- 🌱 I’m currently learning react will be making cool stuffs soon.
+- 💞️ I’m looking to collaborate on any small project where i can be usefull to anybody.
 - 📫 How to reach me my ig- @duh.itx_adi
 -                    my email- adityaradhey2304@gmail.com
 - 😄 Pronouns: (he/him)
