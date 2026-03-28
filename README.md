@@ -11,4 +11,4 @@ Frontend Developer focused on creating modern, animation-driven web experiences.
 - GSAP, ScrollTrigger
 
 ## 📫 Contact
-- Email: adityaradhey2304@gmail.com
+- LinkedIn - https://www.linkedin.com/in/aditya-pratap-singh-599594283/
